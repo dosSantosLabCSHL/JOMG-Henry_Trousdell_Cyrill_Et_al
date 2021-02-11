@@ -1,7 +1,7 @@
 # JOMG-Henry_Trousdell_Cyrill_Et_al
 Characterization of gene expression signatures for the identification of cellular heterogeneity in the developing mammary gland 
 
-Samantha Henry1, 2, Marygrace C. Trousdell1, Samantha L. Cyrill1, Mary. J. Feigman3, Julia M. Bouhuis4, Dominick Aylard5, Camila O. dos Santos1a 
+Samantha Henry<sup>1</sup>, 2, Marygrace C. Trousdell1, Samantha L. Cyrill1, Mary. J. Feigman3, Julia M. Bouhuis4, Dominick Aylard5, Camila O. dos Santos1a 
 1Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724. 
 2Graduate Program in Genetics, Stony Brook University
 3R&D, United Biomedical Pharma, NY 
