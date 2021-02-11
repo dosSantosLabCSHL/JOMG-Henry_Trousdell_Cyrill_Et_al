@@ -4,8 +4,8 @@
 Samantha Henry<sup>1</sup><sup>2</sup>, Marygrace C. Trousdell<sup>1</sup>, Samantha L. Cyrill<sup>1</sup>, Mary. J. Feigman<sup>3</sup>, Julia M. Bouhuis<sup>4</sup>, Dominick Aylard<sup>5</sup>, Camila O. dos Santos<sup>1a</sup> 
 
 <sup>1</sup>Cold Spring Harbor Laboratory, Cold Spring Harbor, NY 11724.  
-<sup>2</sup>Graduate Program in Genetics, Stony Brook University. 
-<sup>3</sup>R&D, United Biomedical Pharma, NY. 
+<sup>2</sup>Graduate Program in Genetics, Stony Brook University.  
+<sup>3</sup>R&D, United Biomedical Pharma, NY.  
 <sup>4</sup>Erasmus Medical Center in Rotterdam, the Netherlands.  
 <sup>4</sup>University of California, Davis. Biochemistry, Molecular, Cellular and Developmental Biology Graduate Programs.  
 <sup>a</sup>Correspondence   and   requests   for   materials   should   be   addressed   to C.O.D.S email: dossanto@cshl.edu   
