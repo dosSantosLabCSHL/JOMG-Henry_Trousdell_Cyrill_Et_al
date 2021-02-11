@@ -1,5 +1,5 @@
 # JOMG-Henry_Trousdell_Cyrill_Et_al
-<center> ## ** Characterization of gene expression signatures for the identification of cellular heterogeneity in the developing mammary gland ** </center>
+## ** Characterization of gene expression signatures for the identification of cellular heterogeneity in the developing mammary gland ** 
 
 Samantha Henry<sup>1</sup><sup>2</sup>, Marygrace C. Trousdell<sup>1</sup>, Samantha L. Cyrill<sup>1</sup>, Mary. J. Feigman<sup>3</sup>, Julia M. Bouhuis<sup>4</sup>, Dominick Aylard<sup>5</sup>, Camila O. dos Santos<sup>1a</sup> 
 
